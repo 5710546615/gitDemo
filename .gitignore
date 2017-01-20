@@ -2,3 +2,6 @@
 bin/
 build/
 *.class
+
+t1.tmp
+t2.swp
